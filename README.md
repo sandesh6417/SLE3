@@ -1,4 +1,3 @@
-# SLE3
 # 8-Puzzle Solver using BFS and DFS
 
 **Course:** 02AML204 - Introduction to Artificial Intelligence\
@@ -175,4 +174,3 @@ BFS and DFS.
 
 This project connects the work completed in SLE-2 with the architectural
 design required for SLE-3.
-
